@@ -1,2 +1,2 @@
 # revusic-master
-Revusic project zipped folder.
+Zipped folder containing Revusic Project.
